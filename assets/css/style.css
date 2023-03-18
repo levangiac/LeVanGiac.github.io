@@ -624,7 +624,7 @@ section {
 }
 
 .portfolio-details .portfolio-details-slider img {
-  width: 100%;
+  width: 65%;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
@@ -669,6 +669,7 @@ section {
 
 .portfolio-details .portfolio-description {
   padding-top: 30px;
+  width: 90%;
 }
 
 .portfolio-details .portfolio-description h2 {
